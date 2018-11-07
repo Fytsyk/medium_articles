@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AndroidLayouts">
-    <shared>
-      <config />
-    </shared>
-  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89f617f1-dc83-4e20-9d51-013d2993e250" name="Default" comment="" />
+    <list default="true" id="2f44d4a1-d6a6-4155-9886-ee355e13f41e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,39 +28,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-          <provider selected="true" editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainActivity.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/fytsyk/com/androidconcurrency/MainActivity.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="37" selection-start-column="37" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExampleUnitTest.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/test/java/fytsyk/com/androidconcurrency/ExampleUnitTest.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConcurrencyProblemTest.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ConcurrencyProblemTest.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/test/java/fytsyk/com/androidconcurrency/ConcurrencyProblemTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="240">
+              <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+              <folding>
+                <element signature="e#39#88#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadingWritingSerialTest.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/test/java/fytsyk/com/androidconcurrency/ReadingWritingSerialTest.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="26" selection-end-column="1" />
+              <folding>
+                <element signature="e#39#88#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,26 +55,8 @@
       <file leaf-file-name="Dispatchers.kt" pinned="false" current-in-tab="false">
         <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.0.0/25f38c379fd216bf66c638fc5f5b595650c1bd64/kotlinx-coroutines-core-1.0.0-sources.jar!/Dispatchers.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="72" column="22" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Builders.common.kt" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.0.0/fbe00e9f1a3138c7d138fe4e02724366e9e42f24/kotlinx-coroutines-core-common-1.0.0-sources.jar!/Builders.common.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+            <state relative-caret-position="175">
+              <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -100,23 +64,11 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-            </state>
+            <state />
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Kotlin Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -134,14 +86,14 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="ConcurrencyMediumArticle" />
+              <option name="name" value="android" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="ConcurrencyMediumArticle" />
+                <option name="name" value="android" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
@@ -159,7 +111,7 @@
           <value>
             <list>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'ConcurrencyMediumArticle'." />
+                <option name="description" value="Displays the sub-projects of root project 'android'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
@@ -243,7 +195,7 @@
                 <option name="name" value="compileDebugAndroidTestJavaWithJavac" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'ConcurrencyMediumArticle'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'android'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
@@ -527,12 +479,12 @@
                 <option name="name" value="generateDebugAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in root project 'ConcurrencyMediumArticle'. [incubating]" />
+                <option name="description" value="Displays the dependent components of components in root project 'android'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in root project 'ConcurrencyMediumArticle'." />
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'android'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
@@ -657,7 +609,7 @@
                 <option name="name" value="bundleRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'ConcurrencyMediumArticle'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'android'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
@@ -670,7 +622,7 @@
                 <option name="name" value="reportSourceSetTransformAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'ConcurrencyMediumArticle' (some of the displayed tasks may belong to subprojects)." />
+                <option name="description" value="Displays the tasks runnable from root project 'android' (some of the displayed tasks may belong to subprojects)." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
@@ -688,7 +640,7 @@
                 <option name="name" value="bundleDebugAndroidTestResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'ConcurrencyMediumArticle'." />
+                <option name="description" value="Displays all dependencies declared in root project 'android'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
@@ -793,7 +745,7 @@
                 <option name="name" value="packageAppClassesReleaseUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'ConcurrencyMediumArticle'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'android'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -1044,7 +996,7 @@
                 <option name="name" value="packageDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'ConcurrencyMediumArticle'." />
+                <option name="description" value="Displays the properties of root project 'android'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
@@ -2325,7 +2277,7 @@
                   </entry>
                 </map>
               </option>
-              <option name="name" value="ConcurrencyMediumArticle" />
+              <option name="name" value="android" />
               <option name="projectBuildClasspath">
                 <list>
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.6-all/bcst21l2brirad8k2ben1letg/gradle-4.6/src/ide" />
@@ -2491,9 +2443,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/test/java/fytsyk/com/androidconcurrency/ConcurrencyProblemTest.kt" />
+        <option value="$PROJECT_DIR$/app/src/test/java/fytsyk/com/androidconcurrency/ReadingWritingSerialTest.kt" />
       </list>
     </option>
   </component>
@@ -2501,89 +2451,51 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ConcurrencyMediumArticle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ConcurrencyMediumArticle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="ConcurrencyMediumArticle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ConcurrencyMediumArticle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="ConcurrencyMediumArticle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ConcurrencyMediumArticle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ConcurrencyMediumArticle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ConcurrencyMediumArticle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ConcurrencyMediumArticle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ConcurrencyMediumArticle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ConcurrencyMediumArticle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ConcurrencyMediumArticle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="androidconcurrency" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="AndroidView">
         <subPane>
           <expand>
             <path>
-              <item name="ConcurrencyMediumArticle" type="1abcf292:AndroidViewProjectNode" />
+              <item name="android" type="1abcf292:AndroidViewProjectNode" />
               <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="androidconcurrency" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="android.project.structure.last.selected" value="app" />
-    <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../signal" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="fytsyk.com.androidconcurrency" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -2597,7 +2509,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Android JUnit.ConcurrencyProblemTest.runCodeWithConcurrencyProblem">
+  <component name="RunManager" selected="Android JUnit.ReadingWritingSerialTest.runCodeWithConcurrencyProblem">
     <configuration name="ConcurrencyProblemTest.runCodeWithConcurrencyProblem" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -2620,6 +2532,64 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+      <method>
+        <option name="Make" enabled="false" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadingWritingSerialTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fytsyk.com.androidconcurrency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="fytsyk.com.androidconcurrency" />
+      <option name="MAIN_CLASS_NAME" value="fytsyk.com.androidconcurrency.ReadingWritingSerialTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+      <method>
+        <option name="Make" enabled="false" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadingWritingSerialTest.runCodeWithConcurrencyProblem" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fytsyk.com.androidconcurrency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="fytsyk.com.androidconcurrency" />
+      <option name="MAIN_CLASS_NAME" value="fytsyk.com.androidconcurrency.ReadingWritingSerialTest" />
+      <option name="METHOD_NAME" value="runCodeWithConcurrencyProblem" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+      <method>
+        <option name="Make" enabled="false" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -2751,9 +2721,13 @@
     <list>
       <item itemvalue="Android App.app" />
       <item itemvalue="Android JUnit.ConcurrencyProblemTest.runCodeWithConcurrencyProblem" />
+      <item itemvalue="Android JUnit.ReadingWritingSerialTest.runCodeWithConcurrencyProblem" />
+      <item itemvalue="Android JUnit.ReadingWritingSerialTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit.ReadingWritingSerialTest.runCodeWithConcurrencyProblem" />
+        <item itemvalue="Android JUnit.ReadingWritingSerialTest" />
         <item itemvalue="Android JUnit.ConcurrencyProblemTest.runCodeWithConcurrencyProblem" />
       </list>
     </recent_temporary>
@@ -2763,78 +2737,78 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="89f617f1-dc83-4e20-9d51-013d2993e250" name="Default" comment="" />
-      <created>1541448438622</created>
+      <changelist id="2f44d4a1-d6a6-4155-9886-ee355e13f41e" name="Default" comment="" />
+      <created>1541601186298</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1541448438622</updated>
+      <updated>1541601186298</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ConcurrencyProblemTest_runCodeWithConcurrencyProblem - 2018.11.06 at 08h 53m 40s.xml">
-      <configuration name="ConcurrencyProblemTest.runCodeWithConcurrencyProblem" configurationId="AndroidJUnit" />
+    <history-entry file="ReadingWritingSerialTest_runCodeWithConcurrencyProblem - 2018.11.07 at 17h 05m 46s.xml">
+      <configuration name="ReadingWritingSerialTest.runCodeWithConcurrencyProblem" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="ConcurrencyProblemTest_runCodeWithConcurrencyProblem - 2018.11.06 at 08h 53m 46s.xml">
-      <configuration name="ConcurrencyProblemTest.runCodeWithConcurrencyProblem" configurationId="AndroidJUnit" />
+    <history-entry file="ReadingWritingSerialTest_runCodeWithConcurrencyProblem - 2018.11.07 at 17h 05m 57s.xml">
+      <configuration name="ReadingWritingSerialTest.runCodeWithConcurrencyProblem" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="ConcurrencyProblemTest_runCodeWithConcurrencyProblem - 2018.11.06 at 08h 53m 56s.xml">
-      <configuration name="ConcurrencyProblemTest.runCodeWithConcurrencyProblem" configurationId="AndroidJUnit" />
+    <history-entry file="ReadingWritingSerialTest - 2018.11.07 at 17h 06m 06s.xml">
+      <configuration name="ReadingWritingSerialTest" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="ConcurrencyProblemTest_runCodeWithConcurrencyProblem - 2018.11.06 at 08h 54m 13s.xml">
-      <configuration name="ConcurrencyProblemTest.runCodeWithConcurrencyProblem" configurationId="AndroidJUnit" />
+    <history-entry file="ReadingWritingSerialTest - 2018.11.07 at 17h 06m 15s.xml">
+      <configuration name="ReadingWritingSerialTest" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="ConcurrencyProblemTest_runCodeWithConcurrencyProblem - 2018.11.06 at 08h 54m 19s.xml">
-      <configuration name="ConcurrencyProblemTest.runCodeWithConcurrencyProblem" configurationId="AndroidJUnit" />
+    <history-entry file="ReadingWritingSerialTest - 2018.11.07 at 17h 06m 39s.xml">
+      <configuration name="ReadingWritingSerialTest" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="ConcurrencyProblemTest_runCodeWithConcurrencyProblem - 2018.11.06 at 08h 54m 26s.xml">
-      <configuration name="ConcurrencyProblemTest.runCodeWithConcurrencyProblem" configurationId="AndroidJUnit" />
+    <history-entry file="ReadingWritingSerialTest_runCodeWithConcurrencyProblem - 2018.11.07 at 17h 08m 35s.xml">
+      <configuration name="ReadingWritingSerialTest.runCodeWithConcurrencyProblem" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="ConcurrencyProblemTest_runCodeWithConcurrencyProblem - 2018.11.06 at 08h 54m 33s.xml">
-      <configuration name="ConcurrencyProblemTest.runCodeWithConcurrencyProblem" configurationId="AndroidJUnit" />
+    <history-entry file="ReadingWritingSerialTest - 2018.11.07 at 17h 08m 53s.xml">
+      <configuration name="ReadingWritingSerialTest" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="ConcurrencyProblemTest_runCodeWithConcurrencyProblem - 2018.11.06 at 08h 57m 10s.xml">
-      <configuration name="ConcurrencyProblemTest.runCodeWithConcurrencyProblem" configurationId="AndroidJUnit" />
+    <history-entry file="ReadingWritingSerialTest - 2018.11.07 at 17h 09m 04s.xml">
+      <configuration name="ReadingWritingSerialTest" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="ConcurrencyProblemTest_runCodeWithConcurrencyProblem - 2018.11.06 at 08h 57m 48s.xml">
-      <configuration name="ConcurrencyProblemTest.runCodeWithConcurrencyProblem" configurationId="AndroidJUnit" />
+    <history-entry file="ReadingWritingSerialTest_runCodeWithConcurrencyProblem - 2018.11.07 at 17h 14m 48s.xml">
+      <configuration name="ReadingWritingSerialTest.runCodeWithConcurrencyProblem" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="ConcurrencyProblemTest_runCodeWithConcurrencyProblem - 2018.11.06 at 08h 57m 54s.xml">
-      <configuration name="ConcurrencyProblemTest.runCodeWithConcurrencyProblem" configurationId="AndroidJUnit" />
+    <history-entry file="ReadingWritingSerialTest_runCodeWithConcurrencyProblem - 2018.11.07 at 17h 14m 57s.xml">
+      <configuration name="ReadingWritingSerialTest.runCodeWithConcurrencyProblem" configurationId="AndroidJUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
-      <window_info id="Build Variants" side_tool="true" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Viewer" side_tool="true" />
-      <window_info anchor="bottom" id="Logcat" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info anchor="bottom" id="Build" weight="0.43017456" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
+      <window_info id="Build Variants" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32917705" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32917705" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32917705" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="right" id="Viewer" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Logcat" />
       <window_info id="Captures" order="2" weight="0.25" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Build" weight="0.32917705" />
       <window_info anchor="right" id="Gradle" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Fabric" />
       <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -2845,64 +2819,63 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/test/java/fytsyk/com/androidconcurrency/ExampleUnitTest.kt">
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/fytsyk/com/androidconcurrency/MainActivity.kt">
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="37" selection-start-column="37" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.0.0/fbe00e9f1a3138c7d138fe4e02724366e9e42f24/kotlinx-coroutines-core-common-1.0.0-sources.jar!/Builders.common.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
+        <state relative-caret-position="423">
+          <caret line="33" column="53" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/fytsyk/com/androidconcurrency/ConcurrencyProblemTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding>
+            <element signature="e#39#88#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.0.0/fbe00e9f1a3138c7d138fe4e02724366e9e42f24/kotlinx-coroutines-core-common-1.0.0-sources.jar!/CoroutineScope.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+        <state relative-caret-position="347">
+          <caret line="56" column="2" lean-forward="true" selection-start-line="56" selection-start-column="2" selection-end-line="56" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.0.0/25f38c379fd216bf66c638fc5f5b595650c1bd64/kotlinx-coroutines-core-1.0.0-sources.jar!/Dispatchers.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="72" column="22" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
+        <state relative-caret-position="175">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/test/java/fytsyk/com/androidconcurrency/ConcurrencyProblemTest.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/fytsyk/com/androidconcurrency/ReadingWritingSerialTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state>
+          <caret selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="e#39#88#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
